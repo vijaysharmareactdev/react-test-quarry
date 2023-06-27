@@ -1,0 +1,50 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-container {
+  height: auto;
+  width: 400px;
+  display: flex;
+  min-height: 400px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ccc;
+}
+
+.input-class {
+  height: 30px;
+  width: 200px;
+  margin: 8px 0px;
+  padding-left: 10px;
+  border-radius: 10px;
+}
+
+.contact-class {
+  height: 35px;
+  width: 220px;
+  margin: 8px 0px;
+  padding-left: 10px;
+  border-radius: 10px;
+}
+
+.submit-class {
+  height: 35px;
+  width: 220px;
+  margin: 8px 0px;
+}
+
+.contact-row {
+  height: 30px;
+  width: 300px;
+  display: flex;
+  margin: 8px 0px;
+  padding: 0px 10px;
+  align-items: center;
+  border: 0.5px darkgreen solid;
+  justify-content: space-between;
+}
